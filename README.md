@@ -1,13 +1,11 @@
-## Welcome to GitHub Pages
+Welcome to DB Families Page
 
-You can use the [editor on GitHub](https://github.com/niteshgupta555/gupta/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here you will meet DB type of persons
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### D lidder
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Dallidar is a lightweight and easy-to-use gali
 ```markdown
 Syntax highlighted code block
 
